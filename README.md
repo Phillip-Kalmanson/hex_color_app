@@ -1,4 +1,4 @@
-# This app was created to test what I have learned so far in my react Journey.
+# This was a quick app I created to test what I have learned so far in my react journey.
 
 ##  Try to guess the hexadecimal code for the color displayed!
 

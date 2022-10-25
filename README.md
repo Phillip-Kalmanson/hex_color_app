@@ -1,3 +1,16 @@
+#This app was created to test what I have learned so far in my react Journey.
+
+##  Try to guess the hexadecimal code for the color displayed!
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
